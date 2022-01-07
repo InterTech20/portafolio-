@@ -36,6 +36,7 @@ transition: 2s;
     margin-top: 15px;
     margin-left: 15px;
     margin-right: 15px;
+    transition: all 1s;
 }
 
 .icons a i:hover{
@@ -72,8 +73,12 @@ color: #3F3D56;
         color: #fff !important;
         background-color: #4d42ff !important;
         border-radius: 10px !important;
+        transition: all 1s !important;
     }
 
+    .btn:hover {
+        transform: scale(1.2) !important;
+    }
 
     .card{
         background: #FAFAFA !important;
