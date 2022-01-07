@@ -89,11 +89,20 @@ color: #3F3D56;
     margin: 50px 0;
 }
 
-.espaciotrabajos img{
-   padding:20px 0;
+.espaciotrabajos{
+    width: 100%;
+    overflow: hidden;
 }
 
+.espaciotrabajos img{
+   padding:20px 0;
+   transition: all 1s;
+  
+}
 
+.espaciotrabajos img:hover{
+    transform: scale(1.2);
+ }
 
 
 #CONTACTO{
