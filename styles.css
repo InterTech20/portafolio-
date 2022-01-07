@@ -86,10 +86,9 @@ color: #3F3D56;
     }
 
     .card{
-        background: #FAFAFA !important;
-        box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.25) !important;
+         background: #FAFAFA !important;
         border-radius: 10px !important;
-        border: 1px solid rgba(255, 255, 255, 0) !important;
+        box-shadow:  20px 20px 60px #bebebe, -20px -20px 60px #ffffff !important;
     }
 
 
