@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"brjnbfjcnpvvur7aej78"},
+{"type":"table","name":"info_restaurante","database":"brjnbfjcnpvvur7aej78","data":
+[
+{"id":"1","nombre":"morales","direccion":"morales 506","email":"morales@morales","telefono":"968554153","horario":"10:00 - 18:00","delivery":"No","foto":"anonymous.jpg","id_user":"1"},
+{"id":"2","nombre":"juanrick00033","direccion":"juanrick","email":"juran@jasd.com","telefono":"1233333333333","horario":"9:00 - 16:00","delivery":"","foto":"93808.jpg","id_user":"2"},
+{"id":"3","nombre":"juanrick00033","direccion":"juanrick","email":"juran@jasd.com","telefono":"1233333333333","horario":"9:00 - 16:00","delivery":"","foto":"93808.jpg","id_user":"2"}
+]
+}
+]
